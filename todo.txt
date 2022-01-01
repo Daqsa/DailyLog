@@ -1,0 +1,7 @@
+- import from existing file
+- logDay() function in logger.py that is actiavted when activity type is sleep
+	- would summarize all activities before previous sleep then log into summary.csv 
+- have an option to show the previous 10 activities when entering logger
+- displayer.py that would graph data in summary.csv
+- have an option to show the summary statistics of previous week 
+
